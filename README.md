@@ -1,0 +1,3 @@
+# AppwriteProject
+
+Explore Appwrite!
